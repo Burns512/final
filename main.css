@@ -54,9 +54,11 @@ h3 {
  }
 
  nav a {
-  color: black;
+  color: #e3e3e3;
   text-decoration: none;
   padding: 1rem 2rem;
+  font-weight: bold;
+  
  }
 
  nav a:hover {
